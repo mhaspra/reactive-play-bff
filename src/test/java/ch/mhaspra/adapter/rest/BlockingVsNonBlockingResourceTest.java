@@ -1,4 +1,4 @@
-package ch.mhaspra.adapter;
+package ch.mhaspra.adapter.rest;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

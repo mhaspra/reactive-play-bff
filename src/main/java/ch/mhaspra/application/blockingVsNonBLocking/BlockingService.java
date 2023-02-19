@@ -1,4 +1,4 @@
-package ch.mhaspra.application;
+package ch.mhaspra.application.blockingVsNonBLocking;
 
 import javax.enterprise.context.ApplicationScoped;
 

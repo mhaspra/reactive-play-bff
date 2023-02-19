@@ -1,7 +1,7 @@
-package ch.mhaspra.adapter;
+package ch.mhaspra.adapter.rest;
 
-import ch.mhaspra.application.BlockingService;
-import ch.mhaspra.application.NonblockingService;
+import ch.mhaspra.application.blockingVsNonBLocking.BlockingService;
+import ch.mhaspra.application.blockingVsNonBLocking.NonblockingService;
 import io.smallrye.mutiny.Uni;
 
 import javax.inject.Inject;
